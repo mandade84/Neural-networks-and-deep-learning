@@ -1,2 +1,2 @@
 # Neural-networks-and-deep-learning
-some codes from the book by Michael Nielsen
+codes based on the book by Michael Nielsen
